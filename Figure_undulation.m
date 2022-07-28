@@ -1,4 +1,4 @@
-load('a.mat')
+load('Undulation_data.mat')
 
 
 c_1_harm = [14,167,181]./255;
